@@ -6,7 +6,7 @@
 xrc static-build
 # . ../static-build/v0
 
-static_build_xrc exa
+# static_build_xrc exa
 
 static_build_init exa exa exa
 
